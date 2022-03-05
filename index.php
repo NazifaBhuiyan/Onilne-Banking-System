@@ -15,7 +15,7 @@ integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOn
 </head>
 
 <body>
-<h1> My name is Nazifa </h1>
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed">
   <div class="container-fluid">
     <a class="navbar-brand" href="http://localhost/bank/index.php">Bank Management</a>
